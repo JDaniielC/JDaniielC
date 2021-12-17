@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/JDaniielC/argente123/blob/main/wave.gif" width="30px">, I'm José Daniel</h1>
 
 - 😄 I'm 21 years old.
-- 📚 i'm currently learning C language for university project and python for Deep Learning knowledge.
+- 📚 i'm currently learning a very much technologys like a developer.
 - 🌱 I’m looking sometimes to collaborate on JdaniloC repositories, my brother.
 
 <!---
