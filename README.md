@@ -2,7 +2,7 @@
 
 - 😄 I'm 21 years old.
 - 📚 i'm currently learning a very much technologys like a developer.
-- 🌱 I’m looking sometimes to collaborate on JdaniloC repositories, my brother.
+- 🌱 See my individual projects and collaborate!.
 
 <!---
 JDaniielC/JDaniielC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
