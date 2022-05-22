@@ -4,7 +4,7 @@
 - 📚 i'm currently learning about technologies as a developer.
 - 🌱 See my individual projects and collaborate!.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdaniielc&theme=solarized-light&layout=compact&count_private=true&langs_count=8&hide=css,html,makefile,handlebars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdaniielc&theme=solarized-light&layout=compact&count_private=true&langs_count=8&hide=css,html,makefile,handlebars,scss)
 
 <!---
 JDaniielC/JDaniielC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
