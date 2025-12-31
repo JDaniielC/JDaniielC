@@ -16,20 +16,6 @@ I started studying programming in March 2021 and have been dedicated to learning
 
 Thank you for visiting my profile. I hope you enjoy my work!
 
-<table>
-  <tr>
-    <td valign="top">
-      
-![Top Langs for university](https://github-readme-stats.vercel.app/api/top-langs/?username=jdaniielc&theme=solarized-light&layout=compact&count_private=true&langs_count=6&hide=css,html,makefile,handlebars,scss,python,typescript,javascript&exclude_repo=DIO-repository&custom_title=Top%20Languages%20on%20university)
-    
-  </td>
-  <td valign="top">
-    
-![Top langs for work](https://github-readme-stats.vercel.app/api/top-langs/?username=jdaniielc&theme=solarized-light&layout=compact&count_private=true&langs_count=4&hide=assembly,C,Gherkin,makefile,verilog,java,html,css,scss,handlebars&exclude_repo=DIO-repository,UFPE&custom_title=Top%20Languages%20on%20work)
-
-  </td>
-  </tr>
-</table>
 <!---
 JDaniielC/JDaniielC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -38,14 +24,14 @@ You can click the Preview link to take a look at your changes.
 ### 🛠️ My Skills
 
 These are the technologies that I have mastered and regularly use in my projects:
-[![My Skills](https://skillicons.dev/icons?i=angular,react,vite,styledcomponents,sass,d3,reactivex,express,laravel,mongodb,postgres,docker,cypress,jest,gherkin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs,angular,react,vite,styledcomponents,tailwind,sass,d3,reactivex,express,laravel,mongodb,postgres,docker,cypress,vue,jest,gherkin,mysql,prisma)](https://skillicons.dev)
 
 ### 🌟 My Tools
 
 These are the tools and environments that I use to develop and manage my projects:
-[![My tools](https://skillicons.dev/icons?i=windows,ubuntu,vscode,androidstudio,powershell,neovim,git,yarn,pnpm,postman,discord)](https://skillicons.dev)
+[![My tools](https://skillicons.dev/icons?i=windows,apple,aws,bash,bitbucket,figma,ubuntu,vscode,androidstudio,powershell,neovim,yarn,pnpm,postman,discord)](https://skillicons.dev)
 
 ### 🚀 Learning
 
 I'm always looking to learn and these are some of the technologies I'm interested in exploring:
-[![My desires](https://skillicons.dev/icons?i=nextjs,nestjs,kotlin,flutter,dotnet,yew,rails,redis,kubernetes,rust)](https://skillicons.dev)
+[![My desires](https://skillicons.dev/icons?i=kotlin,flutter,dotnet,swift,terraform,yew,rails,redis,kubernetes,rust)](https://skillicons.dev)
