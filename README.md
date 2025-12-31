@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/JDaniielC/argente123/blob/main/wave.gif" width="30px">, I'm José Daniel</h1>
 
-I'm 24 years old. I have a passion for technology and I'm always seeking to learn more.
+I'm 25 years old. I have a passion for technology and I'm always seeking to learn more.
 
 ## 📚 Currently Learning...
 
